@@ -55,5 +55,5 @@
 ---
 
 <div align="center">
-  <sub>Let's build something awesome together at <b>[НАЗВАНИЕ_ОРГАНИЗАЦИИ]</b></sub>
+  <sub>Let's build something awesome together at <b>[TAYR]</b></sub>
 </div>
