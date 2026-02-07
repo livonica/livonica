@@ -4,8 +4,8 @@
 
 <div align="center">
   <h3>🚀 Code. Deploy. Scale.</h3>
-  <a href="https://livonica.github.io/livonica/">
-    <img src="https://img.shields.io/badge/Personal%20Website-3590F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://livonica.github.io/livonica/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVONICA%20WEBSITE-FF3E00?style=for-the-badge&logo=target&logoColor=white" alt="Livonica Website" />
   </a>
 </div>
 
@@ -58,6 +58,6 @@
 ---
 
 <div align="center">
-  <p>🔗 <b>Explore more:</b> <a href="https://livonica.github.io/livonica/">livonica.github.io</a></p>
+  <p>✨ <b>Check out my portfolio:</b> <a href="https://livonica.github.io/livonica/">livonica.github.io</a></p>
   <sub>Let's build something awesome together at <b>[TAYR]</b></sub>
 </div>
